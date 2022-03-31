@@ -4,5 +4,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh6986)](https://github.com/sh6986/github-readme-stats)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh6986)](https://github.com/sh6986/github-readme-stats)
